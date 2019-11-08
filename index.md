@@ -1,3 +1,8 @@
-## Test
+---
+title: EHRE-601 Research Methods
+author: Arindam Basu
+---
 
-This is a test page
+## Welcome
+
+Hello and welcome.
